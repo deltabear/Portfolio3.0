@@ -100,11 +100,11 @@ nav a:first-child {
 footer {
   padding: 20px 0;
   clear: both;
-  font-size: 14px;
+  font-size: 16px;
   color: #ffffff;
   color: #cccccc;
   text-align: center;
-  background: #666666;
+  background: #494949;
   border-top: 8px solid #4aaaa5;
 }
 
