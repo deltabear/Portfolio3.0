@@ -8,8 +8,9 @@
   <!--Let browser know website is optimized for mobile-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <link rel="stylesheet" type="text/css" href="assets/css/css-reset.css"> 
+  <!-- The grid system would not properly format until I added Bootstrap CDN to page.-->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
   <link rel="stylesheet" type="text/css" href="assets/css/style.css">
-
 
 
 </head>
@@ -32,9 +33,10 @@
     <section class="main-section">
       <h1>Portfolio</h1>
 
+      <div class="row">
       <!-- travelRUSH 2.0 -->
       <div class="work">
-        <div class="col s12 m7">
+        <div class="col-sm">
           <div class="card">
             <div class="card-image">
               <img src="https://cdn.discordapp.com/attachments/585309554095423499/633877954501279764/tr2_screenshot.png" alt="travelRush 2.0 App">
@@ -54,7 +56,7 @@
 
       <!-- JADE_SPACE -->
       <div class="work">
-        <div class="col s12 m7">
+        <div class="col-sm">
           <div class="card">
             <div class="card-image">
               <img src="https://raw.githubusercontent.com/Andymendez100/Jade/Emma/views/assests/images/JS_main%20page_FINAL.png" alt="JADE_SPACE App">
@@ -73,15 +75,14 @@
       
       <!-- travelRush -->
       <div class="work">
-        <div class="col s12 m7">
+        <div class="col-sm">
           <div class="card">
             <div class="card-image">
               <img src="assets/images/travelRush_screencap.png" alt="travelRush App">
               <span class="card-title">travelRush</span>
             </div>
             <div class="card-content">
-              <p>I am a very simple card. I am good at containing small bits of information.
-              I am convenient because I require little markup to use effectively.</p>
+              <p>Initial build of the travelRush app.</p>
             </div>
             <div class="card-action">
               <a href="https://mishel-t.github.io/travelRush/">Environment</a> |
@@ -93,7 +94,7 @@
 
      <!-- Transformers Trivia -->
      <div class="work">
-      <div class="col s12 m7">
+      <div class="col-sm">
         <div class="card">
           <div class="card-image">
               <img src="https://raw.githubusercontent.com/delzerbear/TriviaGame/master/assets/images/tf-G1.jpg" alt="Transformers Trivia">
@@ -111,26 +112,6 @@
       </div>
     </div>
 
-      <!-- Psychic Game -->
-      <div class="work">
-        <div class="col s12 m7">
-          <div class="card">
-            <div class="card-image">
-              <img src="assets/images/psychic game_cap.png" alt="Psychic Game">
-              <span class="card-title">Psychic Game</span>
-            </div>
-            <div class="card-content">
-              <p>I am a very simple card. I am good at containing small bits of information.
-              I am convenient because I require little markup to use effectively.</p>
-            </div>
-            <div class="card-action">
-              <a href="https://delzerbear.github.io/Psychic-Game/">Environment</a> |
-              <a href="https://github.com/delzerbear/Psychic-Game">GitHub Repo</a>
-            </div>
-          </div>
-        </div>
-      </div>
-      
       <!-- Buggy Gifs -->
       <!-- <div class="work">
           <a href="https://delzerbear.github.io/GifTastic/"><img src="assets/images/grasshopper-graphic.png" class="auth-image" alt="Bug-themed GIF Search">
@@ -138,7 +119,7 @@
           <h3>Buggy Gifs</h3>
       </div> -->
       <div class="work">
-        <div class="col s12 m7">
+        <div class="col-sm">
           <div class="card">
             <div class="card-image">
                 <img src="assets/images/grasshopper-graphic.png" alt="Buggy Gifs">
@@ -157,14 +138,14 @@
       
       <!-- LIRI-Bot -->
       <div class="work">
-        <div class="col s12 m7">
+        <div class="col-sm">
           <div class="card">
             <div class="card-image">
                 <img src="https://raw.githubusercontent.com/delzerbear/LIRI-bot/master/images/spotify-this-song.png" alt="LIRI-bot">
                 <span class="card-title">LIRI-Bot</span>
               </div>
               <div class="card-content">
-                <p>Node.js CLI application for indentifying information about music artists and songs.</p>
+                <p>Language Interpretation and Recognition Interface - Node.js CLI application for indentifying information about music artists and songs.</p>
               </div>
               <div class="card-action">
                 <a href="https://github.com/delzerbear/LIRI-bot">GitHub Repo</a>
@@ -175,7 +156,7 @@
 
       <!-- Bamazon -->
       <div class="work">
-        <div class="col s12 m7">
+        <div class="col-sm">
           <div class="card">
             <div class="card-image">
                 <img src="https://raw.githubusercontent.com/delzerbear/Bamazon/master/Images/tables-products.png" alt="Bamazon">
@@ -193,7 +174,7 @@
 
       <!-- Crystals Collector! -->
       <div class="work">
-        <div class="col s12 m7">
+        <div class="col-sm">
           <div class="card">
             <div class="card-image">
               <img src="" alt="Math Guessing Game">
@@ -219,7 +200,7 @@
       </div> -->
 
       <div class="work">
-        <div class="col s12 m7">
+        <div class="col-sm">
           <div class="card">
             <div class="card-image">
               <img src="https://raw.githubusercontent.com/delzerbear/FriendFinder/master/app/images/friendFinder.png" alt="FriendFinder">
