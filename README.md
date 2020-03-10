@@ -16,7 +16,7 @@ Using the Navbar in the Header, you can go to the other pages.
 [Image will go here]
 
 `Portfolio` will display previous solo and group projects including:
-        * Image thumbnail
-        * Brief description of app
-        * Technologies
-        * GitHub repo link, and active link to environment*. (*Node.js projects will not have this feature.)
+* Image thumbnail
+* Brief description of app
+* Technologies
+* GitHub repo link, and active link to environment*. (*Node.js projects will not have this feature.)
