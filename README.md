@@ -6,8 +6,8 @@ This is the web portfolio of Emma Delzer, Front-end Developer and UI Designer.
 
 ## How to Navigate:
 
-Go to <https://delzerbear.github.io/Portfolio3.0/index.html>
-You will be at the `About` page.
+* Go to <https://delzerbear.github.io/Portfolio3.0/index.html>
+* You will be at the `About` page.
 
 [Image will go here]
 
@@ -20,3 +20,9 @@ Using the Navbar in the Header, you can go to the other pages.
 * Brief description of app
 * Technologies
 * GitHub repo link, and active link to environment*. (*Node.js projects will not have this feature.)
+
+[Image here]
+
+`Resume` will display in-page resume.
+
+[Image here]
