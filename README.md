@@ -15,4 +15,8 @@ This is the web portfolio of Emma Delzer, Front-end Developer and UI Designer.
 
 [Image will go here]
 
-    * `Portfolio` will display previous solo and group projects including: image thumbnail, brief description of app, technologies used, GitHub repo link, and active link to environment*. (*Node.js projects will not have this feature.)
+    * `Portfolio` will display previous solo and group projects including:
+        * Image thumbnail
+        * Brief description of app
+        * Technologies
+        * GitHub repo link, and active link to environment*. (*Node.js projects will not have this feature.)
