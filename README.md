@@ -6,16 +6,16 @@ This is the web portfolio of Emma Delzer, Front-end Developer and UI Designer.
 
 ## How to Navigate:
 
-    * Go to <https://delzerbear.github.io/Portfolio3.0/index.html>
-    * You will be at the `Index` page, which is also the `About` page.
+Go to <https://delzerbear.github.io/Portfolio3.0/index.html>
+You will be at the `About` page.
 
 [Image will go here]
 
-    * Using the Navbar in the Header, you can go to the other pages.
+Using the Navbar in the Header, you can go to the other pages.
 
 [Image will go here]
 
-    * `Portfolio` will display previous solo and group projects including:
+`Portfolio` will display previous solo and group projects including:
         * Image thumbnail
         * Brief description of app
         * Technologies
