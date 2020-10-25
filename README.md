@@ -1,6 +1,6 @@
 # Portfolio3.0
 
-This is the web portfolio of Emma Delzer, Front-end Developer and UI Designer.
+This is the web portfolio of Maxwell Delzer, Front-end Developer and UI Designer.
 
 * Made with `HTML5`, `CSS3`, `Bootstrap 4.4.1`, and `Reset CSS`
 
